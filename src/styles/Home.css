@@ -1,0 +1,20 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100vh;
+}
+
+.home-header {
+  background-color: #0073e6;
+  color: white;
+  padding: 1.5rem;
+  text-align: center;
+}
+
+.home-footer {
+  background: #f1f1f1;
+  padding: 1rem;
+  text-align: center;
+  font-size: 0.9rem;
+}
